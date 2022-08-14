@@ -1,0 +1,9 @@
+[user]
+	email = 891842749@qq.com
+	name = changgg
+[merge]
+	ff = false
+[credential "https://gitee.com"]
+	provider = generic
+[credential "https://github.com"]
+	provider = generic
